@@ -9,7 +9,7 @@
 
 ### Routes
 * index (“/”)
-* towers (/towers')
+* towers ("/towers")
 * cleansing (“/cleansing”)
 * tomebamba (“/tomebamba”)
 * panama (“/panama”)
