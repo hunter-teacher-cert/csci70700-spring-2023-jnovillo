@@ -1,3 +1,16 @@
+* Homework
+
+Name: Jessica Novillo Argudo
+
+1. Decoding script caesar cipher: https://replit.com/@JessicaNovillo/Encryption#decode.py
+
+2. Encoding/Decoding using substitution cipher: https://replit.com/@JessicaNovillo/Encryption#substitution.py
+
+
+
+
+
+
 * Instructions
 
 ** If you are presenting this unit:
