@@ -15,7 +15,7 @@ I am implementing get and post methods separated to have a cleaner code and avoi
 - I implemented @app.get('/account_page') and @app.post('/account_page'). 
 
 
-If there are no users in the session, my code will ask to create an user and set up a password. Once credentials have been created, the user is redirected to the login form. Once logged in, the users can go to their account_page where they can add items to a "TODO list" which is going to be added to the session. Other users can also be created and have their own TODO list, which will be displayed if the log out and log in again. There is a link to create an account (or update the password).
+If there are no users in the session, my code will ask to create an user and set up a password. Once credentials have been created, the user is redirected to the login form. Once logged in, the users can go to their account_page where they can add items to a "TODO list" which is going to be added to the session. Other users can also be created and have their own TODO list, which will be displayed if the user logs out and logs in again. There is a link to create an account (or update the password).
 
 There is a link in the account page "Reset Session", this will remove all the accounts information.
 
