@@ -19,8 +19,14 @@ If there are no users in the session, my code will ask to create an user and set
 
 There is a link in the account page that would Reset Session, this will remove all the accounts information.
 
+New routes added for this second part:
+- login ("/login")
+- create_login ("/create_login")
+- logout ("/logout")
+- account_page ("/account_page")
+- reset_session ("/reset_session")
 
-*** Routes
+*** Routes (homework part 1)
 - index (“/”)
 - towers ("/towers")
 - cleansing (“/cleansing”)
