@@ -2,4 +2,8 @@
 
 *Name:* Jessica Novillo Argudo
 
+Instead of working on the caliente version for this assignment, I wanted to investigate how to avoid code repetition when creating objects. I found a solution for that, and it is using components. A component must be implemented in a javascript file. My file name is script.js, and I am creating 'snowman' and 'igloo' components creating all the elements and setting attributes. In the index.html, I  include the js file in the head that will allow me to create the snowman and igloo without repeating the code.
+
+I would say this assignment combines the mild and spicy versions using component objects.
+
 *Link to the Replit code:* https://replit.com/@JessicaNovillo/AFrame14
